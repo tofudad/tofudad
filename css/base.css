@@ -59,7 +59,9 @@ ul {
 	margin: 0;
 	padding: 0;     
 	overflow: hidden;     
-	background-color: #000; }  
+	background-color: #000;
+	position: top: 0;
+}  
 li {     float: left; }  
 li a {     display: block;
 	color: white; 
@@ -73,7 +75,7 @@ a:hover:not(.active) {     background-color: #222; }
 footer { 
 	position: fixed; 
 	bottom: 0;
-	right: 0;
+	left: 0;
 }
 
 	

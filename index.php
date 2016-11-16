@@ -19,11 +19,11 @@
 		<nav>
 			<p><a href="./login">Login</a></p>
 			<ul>
-				<li><a href="./clubs/enviromental">Home</a></li>
-				<li><a href="./clubs/ecosystems_management">Chat Room</a></li>
-				<li><a href="./clubs/closed_loop_gardening">Community</a></li>
-				<li><a href="./clubs/beekeeping"></a>Profile</li>
-				<li><a href="./clubs/beekeeping">Contact</a></li>
+				<li><a href=".">Home</a></li>
+				<li><a href="./chatroom">Chat Room</a></li>
+				<li><a href="./community">Community</a></li>
+				<li><a href="./profile"></a>Profile</li>
+				<li><a href="./contact">Contact</a></li>
 			</ul>
 		</nav>
 

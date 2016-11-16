@@ -28,7 +28,8 @@
 		</nav>
 
 		<main>
-    </main>
+			<button type="button">Post</button>
+		</main>
 
 		<footer>
 			<p><?php include '../content/global/copyright.php'; ?></p>

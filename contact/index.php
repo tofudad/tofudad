@@ -22,7 +22,6 @@
 				<li><a href="..">Home</a></li>
 				<li><a href="../chatroom">Chat Room</a></li>
 				<li><a href="../community">Community</a></li>
-				<li><a href="../profile"></a>Profile</li>
 				<li><a href=".">Contact</a></li>
 			</ul>
 		</nav>

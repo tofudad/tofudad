@@ -5,6 +5,8 @@ h1 {
 	font-variant: small-caps;
 	font-weight: 700;
 	line-height: 73.5px;
+	background-color: black
+	color: white
 }
 h3 {
 	font-family: Futura;
@@ -13,6 +15,8 @@ h3 {
 	font-variant: small-caps;
 	font-weight: 700;
 	line-height: 52.5px;
+	background-color: black
+	color: white
 }
 p {
 	font-family: Futura;
@@ -21,6 +25,8 @@ p {
 	font-variant: small-caps;
 	font-weight: 700;
 	line-height: 30px;
+	background-color: black
+	color: white
 }
 blockquote {
 	font-family: Futura;
@@ -29,6 +35,9 @@ blockquote {
 	font-variant: small-caps;
 	font-weight: 100;
 	line-height: 31.5px;
+	color: black
+	background-color: white
+	
 }
 pre {
 	font-family: Futura;
@@ -37,4 +46,6 @@ pre {
 	font-variant: small-caps;
 	font-weight: 100;
 	line-height: 19.5px;
+	color: black
+	background-color: black
 }

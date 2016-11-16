@@ -31,7 +31,7 @@
     </main>
 
 		<footer>
-			<p><?php include './content/global/copyright.php'; ?></p>
+			<p><?php include '../content/global/copyright.php'; ?></p>
 		</footer>
 	</body>
 </html>

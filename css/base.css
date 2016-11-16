@@ -1,5 +1,5 @@
 body {
-	background-color: black
+	background-color: white
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 	font-variant: small-caps;
 	font-weight: 700;
 	line-height: 73.5px;
-	color: white
+	color: black
 	
 }
 h3 {
@@ -19,7 +19,7 @@ h3 {
 	font-variant: small-caps;
 	font-weight: 700;
 	line-height: 52.5px;
-	color: white
+	color: black
 	
 }
 p {
@@ -29,7 +29,7 @@ p {
 	font-variant: small-caps;
 	font-weight: 700;
 	line-height: 30px;
-	color: white
+	color: black
 	
 }
 blockquote {
@@ -39,7 +39,7 @@ blockquote {
 	font-variant: small-caps;
 	font-weight: 100;
 	line-height: 31.5px;
-	color: white
+	color: black
 	
 	
 }
@@ -50,8 +50,22 @@ pre {
 	font-variant: small-caps;
 	font-weight: 100;
 	line-height: 19.5px;
-	color: white
+	color: black
 	
 }
 
-ul {     list-style-type: none;     margin: 0;     padding: 0;     overflow: hidden;     background-color: #000; }  li {     float: left; }  li a {     display: block;     color: white; font-family: font-family: Futura, "Trebuchet MS", Arial, sans-serif;     text-align: center;     padding: 14px 16px;     text-decoration: none; }  a:hover:not(.active) {     background-color: #222; }  .active { background-color:#B452CD; }
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;     
+	overflow: hidden;     
+	background-color: #000; }  
+li {     float: left; }  
+li a {     display: block;
+	color: white; 
+	font-family: font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+	text-align: center;  
+	padding: 14px 16px;   
+	text-decoration: none; }
+a:hover:not(.active) {     background-color: #222; } 
+.active { background-color:#B452CD; }

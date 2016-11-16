@@ -13,16 +13,27 @@
 	<body>
 		<header>
 			<h1>Tofu Dad</h1>
+			<h3>Hanover High's Student Community</h3>
 		</header>
 	
 		<nav>
+			<p><a href="./login">Login</a></p>
+			<ul>
+				<li><a href="./clubs/enviromental">Home</a></li>
+				<li><a href="./clubs/ecosystems_management">Chat Room</a></li>
+				<li><a href="./clubs/closed_loop_gardening">Community</a></li>
+				<li><a href="./clubs/beekeeping"></a>Profile</li>
+				<li><a href="./clubs/beekeeping">Contact</a></li>
+			</ul>
 		</nav>
 
 		<main>
-			<iframe src="http://webchat.freenode.net?channels=%23andsoandthen&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTE9Mjc3JjEyPXRydWU2e" width="647" height="400"></iframe>
+			<h2>Disclaimer</h2>
+			<p><?php include './content/global/disclaimer.txt'; ?></p>
 		</main>
 
 		<footer>
+			<p><?php include './content/global/copyright.php'; ?></p>
 		</footer>
 	</body>
 </html>

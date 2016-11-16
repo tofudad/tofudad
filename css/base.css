@@ -69,3 +69,11 @@ li a {     display: block;
 	text-decoration: none; }
 a:hover:not(.active) {     background-color: #222; } 
 .active { background-color:#B452CD; }
+
+footer { 
+	position: fixed; 
+	bottom: 0;
+	right: 0;
+}
+
+	

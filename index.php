@@ -26,8 +26,11 @@
 		</nav>
 
 		<main>
-			<h2>Disclaimer</h2>
-			<p><?php include './content/global/disclaimer.txt'; ?></p>
+			<div id="disclaimer">
+				<h2>Disclaimer</h2>
+				<p><?php include './content/global/disclaimer.txt'; ?></p>
+			</div>
+			
 			<button type="button">Post</button>
 		</main>
 

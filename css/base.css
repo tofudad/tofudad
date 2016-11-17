@@ -86,7 +86,8 @@ footer p {
 #disclaimer {
 	background-color: black;
 	color: white;
-	float: right;
+	position: fixed;
+	left: 0;
 	width: 20%;
 }
 

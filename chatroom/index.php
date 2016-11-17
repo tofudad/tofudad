@@ -17,7 +17,6 @@
 		</header>
 	
 		<nav>
-			<p><a href="./login">Login</a></p>
 			<ul>
 				<li><a href="..">Home</a></li>
 				<li><a href=".">Chat Room</a></li>

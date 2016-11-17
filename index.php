@@ -29,6 +29,7 @@
 		<main>
 			<h2>Disclaimer</h2>
 			<p><?php include './content/global/disclaimer.txt'; ?></p>
+			<button type="button">Post</button>
 		</main>
 
 		<footer>

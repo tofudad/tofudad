@@ -1,7 +1,6 @@
 body {
 	background-color: #DEDEDE;
 	font-family: Futura;
-	color: white;
 }
 
 h1 {
@@ -89,4 +88,8 @@ footer p {
 	color: white;
 	float: right;
 	width: 20%;
+}
+
+#disclaimer p {
+	color:white;
 }

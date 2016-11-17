@@ -89,6 +89,6 @@ body {
 #disclaimer {
 	background-color: black;
 	color: white;
-	right: 0;
+	float: right;
 	width: 20%;
 }

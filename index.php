@@ -28,7 +28,7 @@
 		<main>
 			<div id="disclaimer">
 				<h2>Disclaimer</h2>
-				<p><?php include './content/global/disclaimer.txt'; ?></p>
+				<p><?php include './content/global/disclaimer.php'; ?></p>
 			</div>
 			
 			<button type="button">Post</button>

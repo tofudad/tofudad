@@ -13,7 +13,7 @@
 	<body>
 		<header>
 			<h1>Tofu Dad</h1>
-			<h3>Hanover High's Student Community testing</h3>
+			<h3>Hanover High's Student Community</h3>
 		</header>
 	
 		<nav>

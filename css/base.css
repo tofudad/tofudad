@@ -83,7 +83,7 @@ footer p {
 	font-size: 14px;
 }
 
-.sidebar {
+#sidebar {
 	position: absolute;
 	background-color: black;
 	color: white;
@@ -92,6 +92,6 @@ footer p {
 	height: 100%;
 }
 
-.sidebar p {
+#sidebar p {
 	color:white;
 }

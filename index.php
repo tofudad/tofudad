@@ -26,7 +26,7 @@
 		</nav>
 
 		<main>
-			<div class="sidebar">
+			<div id="sidebar">
 				<h2>Disclaimer</h2>
 				<p><?php include './content/global/disclaimer.php'; ?></p>
 			</div>

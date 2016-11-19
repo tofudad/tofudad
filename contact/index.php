@@ -13,7 +13,7 @@
 	<body>
 		<header>
 			<h1>Tofu Dad</h1>
-			<h3>Hanover High's Student Community testing</h3>
+			<h3>Hanover High's Student Community</h3>
 		</header>
 	
 		<nav>
@@ -34,6 +34,7 @@
 					<input type="text" name="cf_email">
 				<p>Message</p>
 					<input type="text" name="cf_message">
+				<br>
 					<input type="submit" value="Send">
 					<input type="reset" value="Clear">
 			</form>

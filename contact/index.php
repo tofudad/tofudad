@@ -33,7 +33,7 @@
 				<p>Your e-mail</p>
 					<input type="text" name="cf_email">
 				<p>Message</p>
-					<textarea name="cf_message">
+					<input type="text" name="cf_message">
 					<input type="submit" value="Send">
 					<input type="reset" value="Clear">
 			</form>

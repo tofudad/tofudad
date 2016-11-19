@@ -26,7 +26,18 @@
 		</nav>
 
 		<main>
-    </main>
+			<h4>Contact Form</h4>
+			<form action="contact.php" method="post">
+				Your name<br>
+				<input type="text" name="cf_name"><br>
+				Your e-mail<br>
+				<input type="text" name="cf_email"><br>
+				Message<br>
+				<textarea name="cf_message"><br>
+				<input type="submit" value="Send">
+				<input type="reset" value="Clear">
+			</form>
+		</main>
 
 		<footer>
 			<p><?php include '../content/global/copyright.php'; ?></p>

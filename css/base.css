@@ -84,7 +84,6 @@ footer p {
 }
 
 #sidebar {
-	position: absolute;
 	background-color: black;
 	color: white;
 	float: right;
@@ -94,4 +93,11 @@ footer p {
 
 #sidebar p {
 	color:white;
+}
+
+#contactform {
+	background-color: black;
+	color: white;
+	float: center;
+	width: 70%;
 }

@@ -28,14 +28,14 @@
 		<main>
 			<h4>Contact Form</h4>
 			<form action="contact.php" method="post">
-				Your name<br>
-				<input type="text" name="cf_name"><br>
-				Your e-mail<br>
-				<input type="text" name="cf_email"><br>
-				Message<br>
-				<textarea name="cf_message"><br>
-				<input type="submit" value="Send">
-				<input type="reset" value="Clear">
+				<p>Your name<p/>
+					<input type="text" name="cf_name">
+				<p>Your e-mail</p>
+					<input type="text" name="cf_email">
+				<p>Message</p>
+					<textarea name="cf_message">
+					<input type="submit" value="Send">
+					<input type="reset" value="Clear">
 			</form>
 		</main>
 

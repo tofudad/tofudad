@@ -28,17 +28,20 @@
 		<main>
 			<div id="contactform">
 				<h4>Contact Form</h4>
-				<form action="contact.php" method="post">
-					<p>Your name<p/>
-						<input type="text" name="cf_name">
-					<p>Your e-mail</p>
-						<input type="text" name="cf_email">
-					<p>Message</p>
-						<input type="text" name="cf_message">
-					<br>
-						<input type="submit" value="Send">
-						<input type="reset" value="Clear">
-				</form>
+					<form id='sampleform' method='post' action='' >
+						<p>
+							Name: <input type='text' name='Name' />
+						</p>
+						<p>
+							Email: <input type='text' name='Email' />
+						</p>
+						<p>
+							Message: <input type='text' name='Message' size="50" />
+						</p>
+						<p>
+							<input type='submit' name='Submit' value='Submit' />
+						</p>
+					</form>
 			</div>
 		</main>
 

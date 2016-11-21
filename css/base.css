@@ -71,8 +71,8 @@ a:hover:not(.active) {
 
 footer {
 	background-color: black;
-	position: absolute; 
-	float: bottom;
+	position: static; 
+	bottom: auto;
 	width: 100%;
 	padding-left: 14px; 
 }

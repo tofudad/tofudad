@@ -8,7 +8,7 @@ If you plan to help build the website, fork a copy or clone to your local device
 1 (603) 790-0278 <br/>
 milojw@gmail.com <br/>
 ###Kai Darrow <br/>
-[insert phone # here] <br/>
+1 (515) 808-2362<br/>
 kai@darrow.live<br/>
 <br/>
 http://tofudad.tk
